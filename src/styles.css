@@ -1,0 +1,28 @@
+.page {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #41f1d9de;
+}
+.button {
+  padding: 10px 60px;
+  background-color: #eef141;
+  border: none;
+  border-radius: 5px;
+  font-weight: 800;
+  color: #000000b0;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+h5 {
+  color: #000000b0;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: center;
+}
